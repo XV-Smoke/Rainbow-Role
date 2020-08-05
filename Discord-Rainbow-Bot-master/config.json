@@ -1,0 +1,13 @@
+{
+    "ColorTime": 6000,
+    "StatusTime": 15000,
+    "StatusType": ["PLAYING","STREAMING","LISTENING","WATCHING"],
+    "StatusInformation": ["use some cool magic to change color","ParkyModz"],
+    "ChangeColorMessage": "changing role color... >.O",
+    "StopMessage": "oh no role stoped changing color >.<",
+    "DeniedAccessMessage": "aww man you dont have that role to use command :<",
+    "RainbowRole": "Rainbow Role",
+    "AllowedRole": "Rainbow Role",
+    "Prefix": "+" ,
+    "Token": "NzI3OTAwNzUzMTAzOTQ1Nzc4.XvykZw.CN5YTuhb3PNk24rAhn3pmleTvBA"
+}
